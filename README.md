@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Daniyar Mussin aka @stormy377
-- 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Swift, JS, Flatter
 - 📫 How to reach me by email - mussin.d.m@gmail.com 
 
