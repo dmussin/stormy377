@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniyar Mussin aka @stormy377
-- 🌱 I’m currently learning Swift, JS, Flatter
+- 🌱 I’m currently learning Python, Swift, JS, Flatter
 - 📫 How to reach me by email - mussin.d.m@gmail.com 
 
 <!---
